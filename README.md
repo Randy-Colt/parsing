@@ -5,3 +5,8 @@
 ### Стек
 - Python
 - Selenium
+
+### Запуск
+```
+python selen.py
+```
